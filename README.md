@@ -7,4 +7,5 @@
 
 ![image](https://github.com/hariactive/CRUD/assets/70790835/83b9f02f-25ce-41ae-ba2e-b9a17a6c1482)
 
-
+##important in oops autoload
+![image](https://github.com/hariactive/CRUD/assets/70790835/7ca1ef4d-b839-46b4-ae98-d4e9786eaeb5)
