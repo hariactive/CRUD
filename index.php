@@ -115,10 +115,6 @@ while($r = mysqli_fetch_array($show)) :
           class="btn btn-danger" >
  Delete
 </a>
-<a href="delete.php?delete_id=<?php echo $row['id']; ?>" class="btn btn-danger" 
-onclick="return confirm('Are you sure you want to delete this item?')">Delete</a>
-
-
 </td>
         </tr>
 <?php
